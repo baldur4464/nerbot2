@@ -1,0 +1,5 @@
+#hauptordner
+.env
+
+#backend
+/backend/.env
